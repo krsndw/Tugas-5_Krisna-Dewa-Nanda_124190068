@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Room Example</string>
+    <string name="judul">Judul</string>
+    <string name="penulis">Penulis</string>
+    <string name="submit">Submit</string>
+    <string name="view">View</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="penulis_buku">Penulis Buku</string>
+    <string name="delete">Delete</string>
+</resources>
